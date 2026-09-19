@@ -1,0 +1,434 @@
+{
+  "metadata": {
+    "title": "Eurozone Countries, Administrative Divisions and Municipalities",
+    "version": "1.0.0",
+    "last_updated": "2026-09-19",
+    "total_countries": 25,
+    "languages_supported": [
+      "en",
+      "fr",
+      "de",
+      "it",
+      "es",
+      "nl",
+      "pt",
+      "fi",
+      "el",
+      "et",
+      "lv",
+      "lt",
+      "sk",
+      "sl",
+      "mt",
+      "ga",
+      "hr",
+      "cs",
+      "da",
+      "sv",
+      "pl",
+      "hu",
+      "ar"
+    ]
+  },
+  "countries": [
+    {
+      "iso_code": "DE",
+      "currency": "EUR",
+      "capital": "Berlin",
+      "names": {
+        "en": "Germany",
+        "fr": "Allemagne",
+        "de": "Deutschland",
+        "it": "Germania",
+        "es": "Alemania",
+        "nl": "Duitsland",
+        "pt": "Alemanha",
+        "fi": "Saksa",
+        "el": "Γερμανία",
+        "et": "Saksamaa",
+        "lv": "Vācija",
+        "lt": "Vokietija",
+        "sk": "Nemecko",
+        "sl": "Nemčija",
+        "mt": "Ġermanja",
+        "ga": "An Ghearmáin",
+        "hr": "Njemačka",
+        "cs": "Německo",
+        "da": "Tyskland",
+        "sv": "Tyskland",
+        "pl": "Niemcy",
+        "hu": "Németország",
+        "ar": "ألمانيا"
+      },
+      "administrative_divisions": [
+        {
+          "level": 1,
+          "type": "State / Bundesland",
+          "names": {
+            "en": "Bavaria",
+            "de": "Bayern",
+            "ar": "بافاريا"
+          },
+          "districts": [
+            {
+              "level": 2,
+              "type": "Government Region / Regierungsbezirk",
+              "names": {
+                "en": "Upper Bavaria",
+                "de": "Oberbayern",
+                "ar": "بافاريا العليا"
+              },
+              "municipalities": [
+                {
+                  "name": "München",
+                  "postal_code": "80331",
+                  "id": "DE_BY_001"
+                },
+                {
+                  "name": "Ingolstadt",
+                  "postal_code": "85049",
+                  "id": "DE_BY_002"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iso_code": "FR",
+      "currency": "EUR",
+      "capital": "Paris",
+      "names": {
+        "en": "France",
+        "fr": "France",
+        "de": "Frankreich",
+        "it": "Francia",
+        "es": "Francia",
+        "nl": "Frankrijk",
+        "pt": "França",
+        "fi": "Ranska",
+        "el": "Γαλλία",
+        "et": "Prantsusmaa",
+        "lv": "Francija",
+        "lt": "Prancūzija",
+        "sk": "Francúzsko",
+        "sl": "Francija",
+        "mt": "Franza",
+        "ga": "An Fhrainc",
+        "hr": "Francuska",
+        "cs": "Francie",
+        "da": "Frankrig",
+        "sv": "Frankrike",
+        "pl": "Francja",
+        "hu": "Franciaország",
+        "ar": "فرنسا"
+      },
+      "administrative_divisions": [
+        {
+          "level": 1,
+          "type": "Region",
+          "names": {
+            "en": "Île-de-France",
+            "fr": "Île-de-France",
+            "ar": "إيل دو فرانس"
+          },
+          "districts": [
+            {
+              "level": 2,
+              "type": "Department",
+              "names": {
+                "en": "Paris",
+                "fr": "Paris",
+                "ar": "باريس"
+              },
+              "municipalities": [
+                {
+                  "name": "Paris",
+                  "postal_code": "75001",
+                  "id": "FR_IDF_75"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "iso_code": "IT",
+      "currency": "EUR",
+      "capital": "Rome",
+      "names": {
+        "en": "Italy",
+        "ar": "إيطاليا",
+        "fr": "Italy",
+        "de": "Italy"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "ES",
+      "currency": "EUR",
+      "capital": "Madrid",
+      "names": {
+        "en": "Spain",
+        "ar": "إسبانيا",
+        "fr": "Spain",
+        "de": "Spain"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "NL",
+      "currency": "EUR",
+      "capital": "Amsterdam",
+      "names": {
+        "en": "Netherlands",
+        "ar": "هولندا",
+        "fr": "Netherlands",
+        "de": "Netherlands"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "BE",
+      "currency": "EUR",
+      "capital": "Brussels",
+      "names": {
+        "en": "Belgium",
+        "ar": "بلجيكا",
+        "fr": "Belgium",
+        "de": "Belgium"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "AT",
+      "currency": "EUR",
+      "capital": "Vienna",
+      "names": {
+        "en": "Austria",
+        "ar": "النمسا",
+        "fr": "Austria",
+        "de": "Austria"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "PT",
+      "currency": "EUR",
+      "capital": "Lisbon",
+      "names": {
+        "en": "Portugal",
+        "ar": "البرتغال",
+        "fr": "Portugal",
+        "de": "Portugal"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "FI",
+      "currency": "EUR",
+      "capital": "Helsinki",
+      "names": {
+        "en": "Finland",
+        "ar": "فنلندا",
+        "fr": "Finland",
+        "de": "Finland"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "GR",
+      "currency": "EUR",
+      "capital": "Athens",
+      "names": {
+        "en": "Greece",
+        "ar": "اليونان",
+        "fr": "Greece",
+        "de": "Greece"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "IE",
+      "currency": "EUR",
+      "capital": "Dublin",
+      "names": {
+        "en": "Ireland",
+        "ar": "أيرلندا",
+        "fr": "Ireland",
+        "de": "Ireland"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "LU",
+      "currency": "EUR",
+      "capital": "Luxembourg",
+      "names": {
+        "en": "Luxembourg",
+        "ar": "لوكسمبورغ",
+        "fr": "Luxembourg",
+        "de": "Luxembourg"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "SI",
+      "currency": "EUR",
+      "capital": "Ljubljana",
+      "names": {
+        "en": "Slovenia",
+        "ar": "سلوفينيا",
+        "fr": "Slovenia",
+        "de": "Slovenia"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "CY",
+      "currency": "EUR",
+      "capital": "Nicosia",
+      "names": {
+        "en": "Cyprus",
+        "ar": "قبرص",
+        "fr": "Cyprus",
+        "de": "Cyprus"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "MT",
+      "currency": "EUR",
+      "capital": "Valletta",
+      "names": {
+        "en": "Malta",
+        "ar": "مالطا",
+        "fr": "Malta",
+        "de": "Malta"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "SK",
+      "currency": "EUR",
+      "capital": "Bratislava",
+      "names": {
+        "en": "Slovakia",
+        "ar": "سلوفاكيا",
+        "fr": "Slovakia",
+        "de": "Slovakia"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "EE",
+      "currency": "EUR",
+      "capital": "Tallinn",
+      "names": {
+        "en": "Estonia",
+        "ar": "إستونيا",
+        "fr": "Estonia",
+        "de": "Estonia"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "LV",
+      "currency": "EUR",
+      "capital": "Riga",
+      "names": {
+        "en": "Latvia",
+        "ar": "لاتفيا",
+        "fr": "Latvia",
+        "de": "Latvia"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "LT",
+      "currency": "EUR",
+      "capital": "Vilnius",
+      "names": {
+        "en": "Lithuania",
+        "ar": "ليتوانيا",
+        "fr": "Lithuania",
+        "de": "Lithuania"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "HR",
+      "currency": "EUR",
+      "capital": "Zagreb",
+      "names": {
+        "en": "Croatia",
+        "ar": "كرواتيا",
+        "fr": "Croatia",
+        "de": "Croatia"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "MC",
+      "currency": "EUR",
+      "capital": "Monaco",
+      "names": {
+        "en": "Monaco",
+        "ar": "موناكو",
+        "fr": "Monaco",
+        "de": "Monaco"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "SM",
+      "currency": "EUR",
+      "capital": "San Marino",
+      "names": {
+        "en": "San Marino",
+        "ar": "سان مارينو",
+        "fr": "San Marino",
+        "de": "San Marino"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "VA",
+      "currency": "EUR",
+      "capital": "Vatican City",
+      "names": {
+        "en": "Vatican City",
+        "ar": "الفاتيكان",
+        "fr": "Vatican City",
+        "de": "Vatican City"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "AD",
+      "currency": "EUR",
+      "capital": "Andorra la Vella",
+      "names": {
+        "en": "Andorra",
+        "ar": "أندورا",
+        "fr": "Andorra",
+        "de": "Andorra"
+      },
+      "administrative_divisions": []
+    },
+    {
+      "iso_code": "XK",
+      "currency": "EUR",
+      "capital": "Pristina",
+      "names": {
+        "en": "Kosovo",
+        "ar": "كوسوفو",
+        "fr": "Kosovo",
+        "de": "Kosovo"
+      },
+      "administrative_divisions": []
+    }
+  ]
+}
