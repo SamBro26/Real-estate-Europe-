@@ -18,6 +18,7 @@ The Application collects certain information automatically when you download and
 If you are located in the European Economic Area (EEA), our legal basis for collecting and using the personal information described above depends on the personal information concerned and the specific context in which we collect it. We process your data based on:
 * **Your Consent:** For displaying personalized or non-personalized advertisements.
 * **Legitimate Interests:** To analyze and improve the performance, security, and stability of the Application.
+* Performance of a Contract: For Premium Plan users, we process your data to fulfill our contractual obligation to provide an ad-free experience, faster load times, and complete privacy protection as specified in your chosen plan.
 
 ## 3. Third-Party Access and Data Sharing
 To provide ad monetization and improve performance, the Application utilizes trusted third-party services. Below are the links to their privacy policies:
