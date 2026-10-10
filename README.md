@@ -9,7 +9,9 @@ This privacy policy applies to the Real Estate Application (European Edition), n
 ## 1. Information Collection and Use
 
 The Application collects certain information automatically when you download and use it.
+
 • For Free Plan Users: This information includes your device's IP address, the pages you visit, and unique device identifiers (like Android Advertising ID) used to display personalized advertisements compliant with EU privacy laws.
+
 • For Premium Plan Users: No advertising identifiers or data for ad-targeting purposes are collected or processed. Your data is limited strictly to what is necessary to provide the core real estate services and manage your subscription.
 
 ## 2. Legal Basis for Processing (GDPR)
