@@ -25,9 +25,8 @@ Information collected may be stored and processed in systems outside of the EEA.
 If you are a resident of the European Union or EEA, you have the following data protection rights:
 * **Right of Access & Rectification:** You can view, update, or correct your profile information and published listings directly within the Application settings at any time.
 * **Right to Erasure (Right to be Forgotten):** You have the right to delete your entire account and all associated data permanently. You can execute this instantly by navigating to "My Account" and tapping "Delete Account".
-* **Right to Withdraw Consent:** You can withdraw your consent for data collection or personalized ads at any time through your device settings.
-
-To exercise any of these rights, please contact us through our developer email.
+* **Right to Withdraw Consent:** • You can withdraw your consent for data collection or personalized ads at any time through your device settings or profile management.
+To exercise any rights that cannot be managed directly through the Application, please contact us through our developer email.
 
 ## 6. Children's Privacy
 The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age within the European Union/EEA (or under 13 years of age for other regions). If it is discovered that a child has provided personal information, it will be deleted immediately.
