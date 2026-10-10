@@ -21,7 +21,8 @@ If you are located in the European Economic Area (EEA), our legal basis for coll
 * Performance of a Contract: For Premium Plan users, we process your data to fulfill our contractual obligation to provide an ad-free experience, faster load times, and complete privacy protection as specified in your chosen plan.
 
 ## 3. Third-Party Access and Data Sharing
-To provide ad monetization and improve performance, the Application utilizes trusted third-party services. Below are the links to their privacy policies:
+To provide ad monetization for our Free Plan users and improve general application performance, the Application utilizes trusted third-party services. Please note that ad-related third-party SDKs (such as AdMob and AppLovin) are entirely disabled for Premium Plan users, and no data from Premium users is shared with them.
+Below are the links to the privacy policies of the third-party service providers used by the Application:
 * [Google Play Services](https://google.com)
 * [Google AdMob](https://google.com) ( Free plan only )
 * [AppLovin](https://applovin.com) ( Free plan only)
