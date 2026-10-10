@@ -23,8 +23,8 @@ If you are located in the European Economic Area (EEA), our legal basis for coll
 ## 3. Third-Party Access and Data Sharing
 To provide ad monetization and improve performance, the Application utilizes trusted third-party services. Below are the links to their privacy policies:
 * [Google Play Services](https://google.com)
-* [Google AdMob](https://google.com)
-* [AppLovin](https://applovin.com)
+* [Google AdMob](https://google.com) ( Free plan only )
+* [AppLovin](https://applovin.com) ( Free plan only)
 
 ## 4. International Data Transfers
 Information collected may be stored and processed in systems outside of the EEA. We ensure that our third-party partners use appropriate safeguards, such as Standard Contractual Clauses approved by the European Commission, to protect your data.
