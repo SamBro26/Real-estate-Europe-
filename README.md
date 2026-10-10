@@ -38,4 +38,5 @@ We strive to use commercially acceptable means of protecting your information, b
 This Privacy Policy may be updated from time to time. You are advised to review this page periodically for any changes.
 
 ## 9. Contact Us & Account Deletion
-If you have any questions about this Privacy Policy, or if you wish to delete your account and all associated data, please contact us via our developer support email. We will process your deletion or data requests within 48 hours.
+• Account Deletion: You can permanently delete your account, profile, messages, favorites, and all published listings at any time directly through the app. To do this, go to "My Account" and click "Delete Account". This action is instant and permanent, and cannot be undone.
+• Contact Us: If you have any questions or feedback about this Privacy Policy, please contact us via our developer support email.
