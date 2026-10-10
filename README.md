@@ -24,7 +24,7 @@ Information collected may be stored and processed in systems outside of the EEA.
 ## 5. Your Data Protection Rights (GDPR)
 If you are a resident of the European Union or EEA, you have the following data protection rights:
 * **Right of Access & Rectification:** You can view, update, or correct your profile information and published listings directly within the Application settings at any time.
-* **Right to Erasure (Right to be Forgotten):** You can request the deletion of your personal data.
+* **Right to Erasure (Right to be Forgotten):** You have the right to delete your entire account and all associated data permanently. You can execute this instantly by navigating to "My Account" and tapping "Delete Account".
 * **Right to Withdraw Consent:** You can withdraw your consent for data collection or personalized ads at any time through your device settings.
 
 To exercise any of these rights, please contact us through our developer email.
