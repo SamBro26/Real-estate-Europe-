@@ -4,7 +4,7 @@
 
 Last Updated: October 10, 2026
 
-This privacy policy applies to the Real Estate Application (European Edition), named FindMe RealEstate, created by Service Provider. The Application offers a Free Plan (supported by personalized advertisements) and a Premium Plan (Ad-Free, with enhanced privacy protection). This service is intended for use "AS IS".
+This privacy policy applies to the Real Estate Application , named FindMe RealEstate, created by Service Provider. The Application offers a Free Plan (supported by personalized advertisements) and a Premium Plan (Ad-Free, with enhanced privacy protection). This service is intended for use "AS IS".
 
 ## 1. Information Collection and Use
 
