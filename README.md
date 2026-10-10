@@ -7,7 +7,10 @@ Last Updated: October 10, 2026
 This privacy policy applies to the Real Estate Application (European Edition), named FindMe RealEstate, created by Service Provider. The Application offers a Free Plan (supported by personalized advertisements) and a Premium Plan (Ad-Free, with enhanced privacy protection). This service is intended for use "AS IS".
 
 ## 1. Information Collection and Use
-The Application collects certain information automatically when you download and use it. This information may include your device's IP address, the pages you visit, and unique device identifiers (like Android Advertising ID). 
+
+The Application collects certain information automatically when you download and use it.
+• For Free Plan Users: This information includes your device's IP address, the pages you visit, and unique device identifiers (like Android Advertising ID) used to display personalized advertisements compliant with EU privacy laws.
+• For Premium Plan Users: No advertising identifiers or data for ad-targeting purposes are collected or processed. Your data is limited strictly to what is necessary to provide the core real estate services and manage your subscription.
 
 ## 2. Legal Basis for Processing (GDPR)
 If you are located in the European Economic Area (EEA), our legal basis for collecting and using the personal information described above depends on the personal information concerned and the specific context in which we collect it. We process your data based on:
