@@ -1,6 +1,7 @@
 # Privacy Policy
 
 **Effective date:** September 17, 2026
+
 Last Updated: October 10, 2026
 
 This privacy policy applies to the Real Estate Application (European Edition) created by Service Provider as a Free and Ad-Supported service. This service is intended for use "AS IS".
