@@ -48,4 +48,42 @@ This Privacy Policy may be updated from time to time. You are advised to review 
 
 ## 9. Contact Us & Account Deletion
 • Account Deletion: You can permanently delete your account, profile, messages, favorites, and all published listings at any time directly through the app. To do this, go to "My Account" and click "Delete Account". This action is instant and permanent, and cannot be undone.
-• Contact Us: If you have any questions or feedback about this Privacy Policy, please contact us via our developer support email.
+
+---
+
+# Terms of Service
+
+**Effective Date: October 14, 2026**
+
+By downloading, installing, or using the "FindMe RealEstate" Application, you agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use the Application.
+
+## 1. Description of Service
+The Application offers both a Free Plan (supported by personalized advertisements) and a Premium Plan (Ad-Free, with enhanced privacy protection and premium features). 
+
+## 2. Subscriptions and Payments
+* **Billing:** Premium Plan subscriptions are billed on a recurring periodic basis (monthly or annually) depending on the plan you select.
+* **Payment Processor:** All financial transactions, subscriptions, and payments are securely processed and managed by our Merchant of Record, **Paddle**. By upgrading to the Premium Plan, you agree to Paddle's terms and conditions.
+* **Price Changes:** We reserve the right to change subscription fees at any time. Any price changes will be communicated to you in advance.
+
+## 3. Account Responsibilities
+You are responsible for maintaining the confidentiality of your account credentials and for all activities that occur under your account.
+
+## 4. Limitation of Liability
+The Application is provided "AS IS" and "AS AVAILABLE" without any warranties of any kind, express or implied.
+
+---
+
+# Refund Policy
+
+Thank you for subscribing to our Premium Plan. We want to ensure you have the best experience with our application.
+
+## 1. Subscription Cancellations
+You can cancel your Premium subscription at any time through your account settings or via the link provided in your Paddle payment receipt email. Upon cancellation, you will continue to have access to the Premium features until the end of your current billing cycle.
+
+## 2. Refund Eligibility
+* **General Policy:** Digital subscriptions and premium services are generally non-refundable once activated, as features are accessible immediately upon purchase.
+* **Exceptions:** Refunds may be considered on a case-by-case basis at our sole discretion (e.g., if there is a technical defect that prevents you from accessing the service and our support team cannot resolve it within a reasonable period).
+* **Processing:** All approved refunds will be processed through our payment gateway, **Paddle**, and credited back to your original payment method.
+
+## 3. Contact Us
+If you have any questions about these Terms or wish to request assistance with your subscription, please contact us through our repository support or the official developer email provided on Google Play.
